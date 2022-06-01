@@ -1,8 +1,8 @@
 ---
 sort: 98
-title: "Dir test"
+title: "Directory Bread Crumbs Navigation"
 ---
 
-# Dir Bread Crumbs Navigation
+# Directory Bread Crumbs Navigation
 
 {% include list.liquid all=true %}
