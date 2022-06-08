@@ -1,5 +1,6 @@
 ---
 sort: 0
+title: "快速开始"
 ---
 
 # Getting Started

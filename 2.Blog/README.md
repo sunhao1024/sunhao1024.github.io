@@ -1,8 +1,9 @@
 ---
 sort: 2
+title: "技术文章"
 ---
 
-# C/C++ Prime
+# NOTE
 
 ```
 {% raw %}{% include list.liquid all=true %}{% endraw %}
