@@ -12,6 +12,11 @@
 </p>
 
 
+<p align="center">
+  <img src="resource/image/poetry.jpg" />
+</p>
+
+
 #
 
 #
