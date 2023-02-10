@@ -1,15 +1,16 @@
 # SunHao's Github Blog
 
 ![header_bg](resource/image/miaomiao.jpg)
-<p align="center">
-  <img src="resource/image/miaomiao.jpg" />
-</p>
 
 # PS-Genius
 
 <!-- ![PS-Genius](resource/image/title-alpha.png) -->
 
 ![两岸猿声啼不住, 轻舟已过万重山](resource/image/poetry.png)
+<p align="center">
+  <img src="resource/image/poetry.jpg" />
+</p>
+
 
 #
 
