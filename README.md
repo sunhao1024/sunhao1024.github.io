@@ -2,6 +2,10 @@
 
 ![header_bg](resource/image/miaomiao.jpg)
 
+<p align="center">
+  <img src="resource/image/miaomiao.jpg" />
+</p>
+
 # PS-Genius
 
 <!-- ![PS-Genius](resource/image/title-alpha.png) -->
