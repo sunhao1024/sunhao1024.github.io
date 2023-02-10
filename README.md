@@ -1,6 +1,9 @@
 # SunHao's Github Blog
 
 ![header_bg](resource/image/miaomiao.jpg)
+<p align="center">
+  <img src="resource/image/miaomiao.jpg" />
+</p>
 
 # PS-Genius
 
